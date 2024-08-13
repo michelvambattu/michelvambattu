@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michelvambattu" alt="michelvambattu" /></a> </p>
 
-- 🔭 I’m currently working on opensource: **woocommerce-personalize**
+- 🔭 I’m currently working on opensource: **woo-personalize**
 
 - 💬 Ask me about **PHP, JavaScript, AWS Cloud Computing**
 
